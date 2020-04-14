@@ -40,6 +40,3 @@ jobs:
     - name: GitHub Action for pylint
       uses: cclauss/GitHub-Action-for-pylint@0.7.0
     
-    # Runs unit tests
-    - name: Unit Testing With Python
-      uses: PrajjawalBanati/Python-actions@0.0.1
